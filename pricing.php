@@ -7,8 +7,27 @@
     <div class="row">
     
       <div class="span8">
-          <h3>Pricing </h3>
-          <p>
+         <h3> QUOTATION & RATES OF SERVICES.</h3>
+<p>The Company make physical survey must be before entering any contract. Also at very
+renewal physical survey must be conducted. Physical survey is essential in order to
+determine the cost of transport, Communication and number of guards. But all in all the
+cost of Security guards must be accompanied with:-</p>
+<ul class="list">
+    
+    <li>Staff Salary as per Government minimum wage.</li>
+    <li>Overtime / allowance.</li>
+<li>
+NSSF / PPF</li>
+<li> Skills and Dement Levy, duties, tax</li>
+<li>
+Cost of Uniforms, Stationeries, communication, transportation supervision
+of staff duties, insurance etc.</li>
+<li> Management cost and Company benefit</li>
+<li> 20% of value Added Tax (VAT) due to mentioned cost above</li>
+
+</ul>
+        
+<p>
          The company uses all kinds of weapons which are authorized by the government and
 legally registered like IGP’s request he have out in his letter. Our watchmen a blue cap, together with a flute, identity card attached at the left
 pocket, our watchmen are paid the salary agreed by the government so as to free them
@@ -18,6 +37,7 @@ Our charges are very cheap and agreement can be reached with the client regardin
 wealth protected.</p>
          <h5>A watchmen using arrow etc Tshs 130,000</h5>
 <h5>A watchmen using fire arm is Tshs 200,000</h5>
+
 
       </div>
         <?php include 'right.php'; ?>

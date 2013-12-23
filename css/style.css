@@ -734,7 +734,7 @@ h1.brand span {
   min-height: 180px;
 }
 .list-services li > div {
-  overflow: hidden;
+  overflow: visible;
 }
 .list-services li img {
   float: left;

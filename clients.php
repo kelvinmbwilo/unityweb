@@ -1,7 +1,14 @@
- <div class="span4">
-            <?php include 'news.php'; ?>
-        	<h4 class="indent-2">Our Happy Clients</h4>
-            <ul class="inner-div1">
+<!DOCTYPE html>
+<html lang="en">
+<?php include 'topmenu.php'; ?>
+<section id="content">
+<div class="sub-content">
+  <div class="container">
+    <div class="row">
+    
+      <div class="span8">
+          <h4 class="indent-2">Our Happy Clients</h4>
+            <ul class="inner-div3">
                 <li class="text-info">Sibuka fm, Mwenge –Dar es salaam.</li>
                 <li class="text-info">Zantel, Kigoma-branch</li>
                 <li class="text-info">Country fm- Iringa</li>
@@ -46,17 +53,21 @@
                 <li class="text-info">Singo Mining Coorperation</li>
 
             </ul>
-                <script>
+          <script>
 $(function(){
-    $('.inner-div1').slimScroll({
-        height: '400px'
-    });
+//    $('.inner-div3').slimScroll({
+//        height: '600px'
+//    });
 });
 </script>
-                <a href="clients.php" class="btn btn-danger btn-mini" style="margin-top: 10px">See All</a>
-            <h4 class="indent-1">testimonials:</h4>
-			<p class="p1">Our company has clients in different regions, where it has taken much
-experience in regarding to security services.
-</p>
-            <span class="clr"><strong>M Shaban</strong>, <a href="#" class="link-2">Managing Director</a></span>
-        </div>
+      </div>
+        <?php include 'right.php'; ?>
+    </div> 
+             
+  </div>
+</div>  
+</section>
+<?php include 'footer.php'; ?>
+<script type="text/javascript" src="js/bootstrap.js"></script>
+</body>
+</html>

@@ -19,7 +19,7 @@
           <li class="span3">
             <div class="thumbnail">
               <div class="caption">
-              	<img src="img/img-1.png" alt="">
+              	<img src="img/img5.jpg" alt="" style="height: 59px;width: 68px" class="img-radius">
                 <h5>Guarding &</h5>
                 <h3>patrolling</h3>
               </div>  
@@ -34,7 +34,7 @@
           <li class="span3">
             <div class="thumbnail">
               <div class="caption">
-              	<img src="img/img-2.png" alt="">
+              	<img src="img/fire1.jpg" alt="" style="height: 59px;width: 68px" class="img-radius">
                 <h5>Fire fighting &</h5>
                 <h3>preventing </h3>
               </div>  
@@ -48,7 +48,7 @@
           <li class="span3">
             <div class="thumbnail">
               <div class="caption">
-              	<img src="img/img-3.png" alt="">
+              	<img src="img/health.png" alt="" style="height: 59px;width: 68px" class="img-radius">
                 <h5>Occupation safety</h5>
                 <h3> Health</h3>
               </div>  
@@ -63,8 +63,8 @@ maintain their health and safety.
           <li class="span3">
             <div class="thumbnail">
               <div class="caption">
-              	<img src="img/img-4.png" alt="">
-                <h5>Radio communication &
+              	<img src="img/image3037.png" alt="" style="height: 59px;width: 68px" class="img-radius">
+                <h5>Communication &
 </h5>
                 <h3>surveillance</h3>
               </div>
@@ -85,7 +85,7 @@ Gates
                 <div class="span4 left-0">
                     <h4 class="indent-2">Welcome</h4>
                     <p class="lead">UNITY SECURITY GROUP CO. LTD is the registered security Company working from March 2008.</p>
-                    <figure class="img-indent"><img src="img/img5.jpg" alt="" class="img-radius"></figure>
+                    <figure class="img-indent"><img src="img/UNITY.png" alt="" class="img-radius"></figure>
                      The security is at the high quality with thorough keen Supervision
 The Company also ensures that Guards are trained enough, equipped, Uniformed, Smart
 hearth and physically fit that he / she is capable to Guard/Secure the location assigned
@@ -96,7 +96,7 @@ diligently.
                 <div class="span4">
                     <h4 class="indent-2">What We Do</h4>
                     <p class="lead">The Company main Object is to secure client / customer’s property </p>
-                    <figure class="img-indent"><img src="img/UNITY.png" alt="" class="img-radius"></figure>
+                    <figure class="img-indent"><img src="img/img5.jpg" alt="" class="img-radius"></figure>
                     Buildings, Offices,
 God down, Sheds. Ware houses, Shops, Garage, Workshop, Hospitals, Schools,
 Colleges, Sites, Residents, Open yards, Escorting on traveling Guests houses &
@@ -150,7 +150,11 @@ Restaurants
     });
     </script>
             <a href="#" class="link">Visit Full Album</a>
-             <div class="row">
+            
+        </div>    
+       <?php include 'right.php'; ?>
+    </div>
+       <div class="row">
           <h3>Our Offices:</h3>
           <div class="span3">
               <address>
@@ -201,9 +205,6 @@ DSM-TANZANIA.</strong><br>
           	
           </div>
       </div>
-        </div>    
-       <?php include 'right.php'; ?>
-    </div>        
   </div>
 </section>
 <?php include 'footer.php'; ?>

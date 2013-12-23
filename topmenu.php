@@ -1,5 +1,5 @@
 <head>
-    <title>Home</title>
+    <title>Unity Security Group CO.LTD</title>
     <meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Your description">
@@ -55,7 +55,7 @@
                             <input type="text" name="s" onBlur="if(this.value=='') this.value=''" onFocus="if(this.value =='' ) this.value=''"  >
                             <a href="#" onClick="document.getElementById('search-form').submit()"></a>
                         </form>
-                        <span class="contacts">Call Us Toll Free:  <span>+255 787 447 003</span><br>E-mail: <a href="#">groupunity@gmail.com</a></span>
+                        <span class="contacts">Call Us :  <span>+255 787 447 003</span><br>E-mail: <a href="#">groupunity@gmail.com</a></span>
                     </div>
                     <div class="navbar navbar_ clearfix">
                         <div class="navbar-inner navbar-inner_">
@@ -65,16 +65,16 @@
                                     <ul class="nav sf-menu">
                                       <li class="active li-first"><a href="index.php"><em class="hidden-phone"></em><span class="visible-phone">Home</span></a></li>
                                       <li><a href="about.php">about</a></li>
-                                      <li class="sub-menu"><a href="index-1.html">Coverage</a>
+                                      <li><a href="services.php">services</a></li>
+                                      <li class="sub-menu"><a href="#a">Coverage</a>
                                         <ul>
-                                          <li><a href="#">Dar es salaam</a></li>
-                                          <li><a href="#">Shinyanga</a></li>
-                                          <li><a href="#">Tanga</a></li>
-                                          <li><a href="#">Iringa</a></li>
+                                          <li><a href="commingsoon.php">Dar es salaam</a></li>
+                                          <li><a href="commingsoon.php">Shinyanga</a></li>
+                                          <li><a href="commingsoon.php">Tanga</a></li>
+                                          <li><a href="commingsoon.php">Iringa</a></li>
                                         </ul>
                                       </li>
-                                      <li><a href="services.php">services</a></li>
-                                      <li><a href="index-3.html">Image Gallery</a></li>
+                                      <li><a href="commingsoon.php">Image Gallery</a></li>
                                       <li><a href="pricing.php">Pricing</a></li>
                                       <li><a href="contacts.php">contacts</a></li>
                                     </ul>

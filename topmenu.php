@@ -50,12 +50,19 @@
         	<div class="span12">
             	<div class="header-block clearfix">
                     <div class="clearfix header-block-pad">
-                        <h1 class="brand"><a href="index.html"><img src="img/logo.png" alt="" style="height: 100px;width: 130"></a></h1>
+                        <h1 class="brand"><a href="index.html"><img src="img/UNITY2.png" alt="" style="height: 150px;width: 250PX"></a></h1>
                         <form id="search-form" action="search.php" method="GET" accept-charset="utf-8" class="navbar-form" >
                             <input type="text" name="s" onBlur="if(this.value=='') this.value=''" onFocus="if(this.value =='' ) this.value=''"  >
                             <a href="#" onClick="document.getElementById('search-form').submit()"></a>
                         </form>
-                        <span class="contacts">Call Us :  <span>+255 787 447 003</span><br>E-mail: <a href="#">groupunity@gmail.com</a></span>
+                        <span class="contacts">
+                            <span>UNITY SECURITY GROUP CO.LTD </span><br>
+                            <span>P. O BOX 1000 </span><br>
+                            Call Us :  <span>+255 787 447 003</span><br>
+                            <span>0717 447 003, 0718 877 515 </span><br>
+                            E-mail: <a href="#">groupunity@gmail.com</a><br>
+                            SHINYANGA TANZANIA
+                        </span>
                     </div>
                     <div class="navbar navbar_ clearfix">
                         <div class="navbar-inner navbar-inner_">
@@ -64,16 +71,15 @@
                                 <div class="nav-collapse nav-collapse_ collapse">
                                     <ul class="nav sf-menu">
                                       <li class="active li-first"><a href="index.php"><em class="hidden-phone"></em><span class="visible-phone">Home</span></a></li>
-                                      <li><a href="about.php">about</a></li>
-                                      <li><a href="services.php">services</a></li>
-                                      <li class="sub-menu"><a href="#a">Coverage</a>
+                                      <li><a href="about.php"></a></li>
+                                      <li class="sub-menu"><a href="#a">About Us</a>
                                         <ul>
-                                          <li><a href="commingsoon.php">Dar es salaam</a></li>
-                                          <li><a href="commingsoon.php">Shinyanga</a></li>
-                                          <li><a href="commingsoon.php">Tanga</a></li>
-                                          <li><a href="commingsoon.php">Iringa</a></li>
+                                          <li><a href="about.php">The Company</a></li>
+                                          <li><a href="management.php">Management</a></li>
                                         </ul>
                                       </li>
+                                      <li><a href="services.php">services</a></li>
+                                      <li><a href="#a">Coverage</a></li>
                                       <li><a href="commingsoon.php">Image Gallery</a></li>
                                       <li><a href="pricing.php">Pricing</a></li>
                                       <li><a href="contacts.php">contacts</a></li>

@@ -37,6 +37,22 @@
                    We provide good surveillance of the place of guard such as Controlling / reporting on the movement of person or vehicle through checkpoints or Gates  <a href="#" class="underline">>></a>
                 </div>
             </li>
+            
+            <li>
+            	<img src="img/clean.png" alt="" style="height: 59px;width: 68px" class="img-radius">
+                <div>
+                	<h3 class="">Cleaning Services</h3>
+                   we assure you of the highest standards of cleanliness, hygiene and attention. Let us do the things we do best, to leave you free to do the things you do best!  <a href="#" class="underline">>></a>
+                </div>
+            </li>
+            
+            <li>
+            	<img src="img/transport.jpg" alt="" style="height: 59px;width: 68px" class="img-radius">
+                <div>
+                	<h3 class="">Transportation Services</h3>
+                   We offers a simple, cost effective and secure solution to any organization’s transportation needs within Tanzania.  <a href="#" class="underline">>></a>
+                </div>
+            </li>
            
           </ul>
       </div>

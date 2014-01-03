@@ -229,7 +229,7 @@ ul.list-2 li a:hover {
 }
 /*------ header ------- */
 header {
-  padding: 30px 0 41px 0;
+  padding: 10px 0 41px 0;
   background: url(../img/header.jpg) 0 0 repeat-x #1b1a1d;
   position: relative;
   z-index: 999;

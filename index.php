@@ -15,8 +15,8 @@
   <div class="container">
     <div class="row">
       <div class="span12">        
-        <ul class="thumbnails">
-          <li class="span3">
+          <ul class="thumbnails">
+          <li class="span4">
             <div class="thumbnail">
               <div class="caption">
               	<img src="img/img5.jpg" alt="" style="height: 59px;width: 68px" class="img-radius">
@@ -31,36 +31,8 @@
               </div>
             </div>
           </li>
-          <li class="span3">
-            <div class="thumbnail">
-              <div class="caption">
-              	<img src="img/fire1.jpg" alt="" style="height: 59px;width: 68px" class="img-radius">
-                <h5>Fire fighting &</h5>
-                <h3>preventing </h3>
-              </div>  
-              <div class="thumbnail-pad">
-                  <p>We use local and modern methods of fire prevention and protection and Reporting hazards such as flooding.
- </p>
-                  <!--<a href="#" class="btn btn_">more info</a>-->
-              </div>
-            </div>
-          </li>
-          <li class="span3">
-            <div class="thumbnail">
-              <div class="caption">
-              	<img src="img/health.png" alt="" style="height: 59px;width: 68px" class="img-radius">
-                <h5>Occupation safety</h5>
-                <h3> Health</h3>
-              </div>  
-              <div class="thumbnail-pad">
-                  <p>The company’s staffs are trained all the time to take all reasonable precautions to
-maintain their health and safety.
-</p>
-                  <!--<a href="#" class="btn btn_">more info</a>-->
-              </div>
-            </div>
-          </li>
-          <li class="span3">
+          
+            <li class="span4">
             <div class="thumbnail">
               <div class="caption">
               	<img src="img/image3037.png" alt="" style="height: 59px;width: 68px" class="img-radius">
@@ -76,6 +48,74 @@ Gates
               </div>
             </div>
           </li>
+          
+          <li class="span4">
+            <div class="thumbnail">
+              <div class="caption">
+              	<img src="img/clean.png" alt="" style="height: 59px;width: 68px" class="img-radius">
+                <h5>Cleaning 
+</h5>
+                <h3>Services</h3>
+              </div>
+              <div class="thumbnail-pad">  
+                  <p> we assure you of the highest standards of cleanliness, hygiene and attention. Let us do the things we do best, to leave you free to do the things you do best!
+</p>
+                  <!--<a href="#" class="btn btn_">more info</a>-->
+              </div>
+            </div>
+          </li>
+          
+        </ul>
+      </div>
+    </div>
+      <div class="row">
+      <div class="span12">        
+        <ul class="thumbnails">
+          <li class="span4">
+            <div class="thumbnail">
+              <div class="caption">
+              	<img src="img/fire1.jpg" alt="" style="height: 59px;width: 68px" class="img-radius">
+                <h5>Fire fighting &</h5>
+                <h3>preventing </h3>
+              </div>  
+              <div class="thumbnail-pad">
+                  <p>We use local and modern methods of fire prevention and protection and Reporting hazards such as flooding.
+ </p>
+                  <!--<a href="#" class="btn btn_">more info</a>-->
+              </div>
+            </div>
+          </li>
+          <li class="span4">
+            <div class="thumbnail">
+              <div class="caption">
+              	<img src="img/health.png" alt="" style="height: 59px;width: 68px" class="img-radius">
+                <h5>Occupation safety</h5>
+                <h3> Health</h3>
+              </div>  
+              <div class="thumbnail-pad">
+                  <p>The company’s staffs are trained all the time to take all reasonable precautions to
+maintain their health and safety.
+</p>
+                  <!--<a href="#" class="btn btn_">more info</a>-->
+              </div>
+            </div>
+          </li>
+          
+          <li class="span4">
+            <div class="thumbnail">
+              <div class="caption">
+              	<img src="img/transport.jpg" alt="" style="height: 59px;width: 68px" class="img-radius">
+                <h5>Transportation 
+</h5>
+                <h3>Services</h3>
+              </div>
+              <div class="thumbnail-pad">  
+                  <p>We offers a simple, cost effective and secure solution to any organization’s transportation needs within Tanzania.
+</p>
+                  <!--<a href="#" class="btn btn_">more info</a>-->
+              </div>
+            </div>
+          </li>
         </ul>
       </div>
     </div>
@@ -85,7 +125,7 @@ Gates
                 <div class="span4 left-0">
                     <h4 class="indent-2">Welcome</h4>
                     <p class="lead">UNITY SECURITY GROUP CO. LTD is the registered security Company working from March 2008.</p>
-                    <figure class="img-indent"><img src="img/UNITY.png" alt="" class="img-radius"></figure>
+                    <figure class="img-indent"><img src="img/UNITY2.png" alt="" class="img-radius"></figure>
                      The security is at the high quality with thorough keen Supervision
 The Company also ensures that Guards are trained enough, equipped, Uniformed, Smart
 hearth and physically fit that he / she is capable to Guard/Secure the location assigned
@@ -160,8 +200,8 @@ Restaurants
               <address>
                 <strong class="clr">UNITY SECURITY GROUP COMPANY<br>
                 Shinyanga office<br />
-P.O BOX 1000<br>
-SHINYANGA-TANZANIA.</strong><br>
+                P.O BOX 1000<br>
+                SHINYANGA-TANZANIA.</strong><br>
                 <span>Freephone:</span>+255787447003<br>
                 <span>Tell:</span>+2552762788<br>
                 E-mail: <a href="#"><u>groupunity@gmail.com</u></a>
@@ -172,8 +212,8 @@ SHINYANGA-TANZANIA.</strong><br>
               <address>
                 <strong class="clr">UNITY SECURITY GROUP COMPANY<br>
                     Iringa office<br/>
-P.O BOX ----<br>
-IRINGA-TANZANIA.</strong><br>
+                P.O BOX ----<br>
+                IRINGA-TANZANIA.</strong><br>
                 <span>Freephone:</span>+255787447003<br>
                 <span>Tell:</span>+2552762788<br>
                 E-mail: <a href="#"><u>groupunity@gmail.com</u></a>
